@@ -1,0 +1,22 @@
+first of all, run login file..
+
+ID :- 6733
+password:-Yash@2123 
+
+This id password is for admin.so after successful login, you will be redirected to the main dashboarb.
+
+In dashboard, you have employee button. With that button , you can add new employee to the system , or update their info or delete the employee.
+
+if the selected category is "Employee" rather then "admin" then after successful login, the user will be redirected to the billing system and cannot change the other info or cannot even access the dashboard. Only "admin" can access the dashboard.
+
+with the supplier button , admin can add new supplier , edit their info or delete the supplier from the database. admin also can search the supplier.
+
+with the category button , admin can add or delete category for different product. E.g. curd and milk are in " dairy product " category so admin have to add Dairy product category to the database.
+
+with the product button , admin can add , delete or update the product , and also select product's category and supplier's name from dropdown menu.Also add stocks and if stocks will be 0 then thart automatically goes to "Inactive" status and will not be display in billing section. we have to update the status after we have enough stock.
+
+With sales button , admin can show the saved bills of customer.
+
+
+
+ 
